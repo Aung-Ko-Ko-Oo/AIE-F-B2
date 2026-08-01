@@ -5,4 +5,4 @@
 3. Class-3, 18 July 2026: [From Research to Real-World Applications: AI and NLP in Industry](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/LU-Talk_18-JULY-2026.pdf)
 4. Class-4, 19 July 2026: [LLM-as-a-Judge ^-^: Introductory Lecture](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/llm_as_a_judge.pdf)  
 5. Class-7, 1 Aug 2026: [Senior Talk by Mya Ei San (PhD student, Institute of Science Tokyo)](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/LUTalk_Mya%20Ei%20San.pdf)  
-6. Class-8, 1 Aug 2026: [Robot Language Acquisition Based on Sequence-to-Sequence Learning](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/robola.pdf)  
+6. Class-7, 1 Aug 2026: [Robot Language Acquisition Based on Sequence-to-Sequence Learning](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/robola.pdf)  
