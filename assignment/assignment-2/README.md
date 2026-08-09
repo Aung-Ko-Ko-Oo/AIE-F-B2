@@ -14,4 +14,6 @@
 [3]. [https://github.com/davidjurgens/potato](https://github.com/davidjurgens/potato)  
 [4]. [https://github.com/Polar-SemEval/data-public](https://github.com/Polar-SemEval/data-public)  
 [5]. [https://github.com/Polar-SemEval/SemEval2026-task9](https://github.com/Polar-SemEval/SemEval2026-task9)  
-[6]. [https://github.com/Polar-SemEval/Leaderboards](https://github.com/Polar-SemEval/Leaderboards)
+[6]. [https://github.com/Polar-SemEval/Leaderboards](https://github.com/Polar-SemEval/Leaderboards)  
+[7]. [POLAR: A Benchmarkfor Multilingual, Multicultural, and Multi-Event Online Polarization](https://aclanthology.org/2026.findings-acl.1433.pdf)  
+[8]. [SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization](https://arxiv.org/pdf/2604.06817v1)
