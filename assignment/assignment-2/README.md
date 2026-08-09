@@ -9,8 +9,8 @@
 ## References
 
 [1]. [https://www.potatoannotator.com/docs/getting-started/quick-start](https://www.potatoannotator.com/docs/getting-started/quick-start)  
-[2]. [https://potato-annotation-tutorial.readthedocs.io/_/downloads/en/latest/pdf/](https://potato-annotation-tutorial.readthedocs.io/_/downloads/en/latest/pdf/)
-[3]. [https://github.com/davidjurgens/potato](https://github.com/davidjurgens/potato)
-[4]. [https://github.com/Polar-SemEval/data-public](https://github.com/Polar-SemEval/data-public)
-[5]. [https://github.com/Polar-SemEval/SemEval2026-task9](https://github.com/Polar-SemEval/SemEval2026-task9)
+[2]. [https://potato-annotation-tutorial.readthedocs.io/_/downloads/en/latest/pdf/](https://potato-annotation-tutorial.readthedocs.io/_/downloads/en/latest/pdf/)  
+[3]. [https://github.com/davidjurgens/potato](https://github.com/davidjurgens/potato)  
+[4]. [https://github.com/Polar-SemEval/data-public](https://github.com/Polar-SemEval/data-public)  
+[5]. [https://github.com/Polar-SemEval/SemEval2026-task9](https://github.com/Polar-SemEval/SemEval2026-task9)  
 [6]. [https://github.com/Polar-SemEval/Leaderboards](https://github.com/Polar-SemEval/Leaderboards)
