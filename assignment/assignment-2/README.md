@@ -5,7 +5,11 @@
 1. [polar.pdf](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-2/polar.pdf) (Assignment-2 အလုပ်အတွက် ၃ နာရီခန့် အချိန်ယူရှင်းပြခဲ့တဲ့ Presentation slide ပါ)  
 2. [data.json](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-2/data.json) (Potato Annotation Tool ရဲ့ အလုပ်လုပ်ပုံနဲ့ UI ကို မိတ်ဆက်ပေးဖို့အတွက် ပြင်ဆင်ခဲ့တဲ့ ဒေတာ json ဖိုင်)
 3. [config.yaml](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/assignment/assignment-2/config.yaml) (Potato Annotation Tool ကို သုံးပြီး မြန်မာစာ Polar ဒေတာကို အတွက် လေဘယ်ထိုးတဲ့ အလုပ်ကို ဥပမာ လုပ်ပြဖို့အတွက် ရေးခဲ့တဲ့ configuration ဖိုင်ပါ။ ကိုယ် လိုအပ်သလို ပြင်ဆင်ပါ။ ဒါပေမဲ့ Output format ကတော့ POLAR dataset ရဲ့ CSV ဖိုင်အတိုင်း ဖြစ်ဖို့ လိုအပ်ပါတယ်။)
-4. ရှေ့ဆုံးက ID field နေရာမှာ resource link or information ကို ဖြည့်ထည့်ပေးထားဖို့ မမေ့ပါနဲ့။ အခြေခံအားဖြင့်က original Polar dataset ရဲ့ format က အောက်ပါအတိုင်းပါ။  
+4. စာကြောင်း အကြောင်း သုံးရာက social media, onine news website စတာတွေကနေ ယူပါ။ ကျန်တဲ့ စာကြောင်း သုံးရာကိုတော့ စာအုပ်၊ မဂ္ဂဇင်း၊ သတင်းစာ စတာတွေကနေ ယူပါ။
+5. စာကြောင်းတွေကို manual word segmentation ဖြတ်ပေးပါ။
+6. စာကြောင်း တစ်ကြောင်းချင်းစီအတွက် အချိန်ပေး စဉ်းစားပြီးမှ လေဘယ်ထိုးပါ။
+7. Potato လိုမျိုး Annotation Tool ကို မသုံးချင်ရင်လည်း Excel, text editor တွေကို သုံးပြီး လုပ်ရင်လည်း အဆင်ပြေပါတယ်။ လိုအပ်ရင်တော့ Task-1 အတွက် ဖိုင်တစ်ဖိုင်၊ Task-2 အတွက် ဖိုင် တစ်ဖိုင်၊ Task-3 အတွက် ဖိုင်တစ်ဖိုင်စီ ခွဲသိမ်းပြီး အဆင့်ဆင့် လုပ်သွားတာမျိုးလည်း ကောင်းပါတယ်။
+8. ရှေ့ဆုံးက ID field နေရာမှာ resource link or information ကို ဖြည့်ထည့်ပေးထားဖို့ မမေ့ပါနဲ့။ အခြေခံအားဖြင့်က original Polar dataset ရဲ့ format က အောက်ပါအတိုင်းပါ။  
 
 ```
 mya_2adbd8face49a02c2708877009a97d84,ဘုရားရှင် ကောသလနိုင်ငံ ... သီတင်းသုံးတော်မူနေစဉ် အာယတနတို့သည် အနတ္တသာတည်း အစရှိသည်ဖြင့် ဗာဟိရာယတနခြောက်ပါးတို့ကို တစ်ပါးစီ တစ်ပါးစီ ဝေဖန်၍ အနတ္တလက္ခဏသုတ် ဒေသနာတော်နည်းဖြင့် ရဟန်းတို့အား ဘုရားရှင် ဟောကြားတော်မူသည့်သုတ်။,0,0,0,0,0,0,c372f4e8-9b5f-11bc-bc24-2ca097b32f1a
