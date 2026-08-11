@@ -8,12 +8,16 @@ Polar ဒေတာ annotation လုပ်ဖို့အတွက် Arloo Anno
 
 ## Library Installation
 
+Python library နှစ်ခုပဲ installation လုပ်ဖို့ လိုအပ်ပါတယ်။  
+
 ```
 pip install flask
 pip install pyyaml
 ```
 
 ## --help
+
+ဘယ်လို run ရမလဲ ဆိုတာကို `--help` ခေါ်ကြည့်ပါ။  
 
 ```
 PS C:\Users\yktnl\Downloads\aat> python .\arloo.py --help
