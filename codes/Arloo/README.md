@@ -183,6 +183,9 @@ python arloo.py web --annotator "YeKyawThu"
 
 ## Example Output Files
 
+"Save As" button ကိုနှိပ်ပြီး "CSV" သို့မဟုတ် "TSV" သို့မဟုတ် "JSON" ဖိုင် အဖြစ် နာမည်ပေးပြီး သိမ်းဆည်းလို့ ရပါတယ်။  
+CSV ဖိုင်ကတော့ အောက်ပါအတိုင်းပါ။  
+
 ### CSV File
 
 ```
@@ -197,6 +200,8 @@ mya_yekyawthu_6,mya_00ddacad18225126c693206cf275f4a1,မျိုးရိုး
 
 ### TSV File
 
+Tab key နဲ့ ခြားထားတဲ့ ဖိုင်ပုံစံ (TSV) ဖိုင်ကတော့ အောက်ပါ ပုံစံမျိုးပါ။  
+
 ```
 id	source	text	key_phrase	polarization	political	racial/ethnic	religious	gender/sexual	other	stereotype	vilification	dehumanization	extreme_language	lack_of_empathy	invalidation
 mya_yekyawthu_1	https://www.bbc.com/burmese/articles/c1w145qj9jdo|||ဘယ်လိုဦးနှောက် ဆောင်းပါး	အော် သူ တစ် ယောက် တည်း ဒုက္ခ ပင်လယ်ဝေ နေ တာ နေ မယ် နိုင်ငံရေး က ငါ နဲ့ မ ဆိုင် ဘူး တဲ့ ဘယ်လိုဦးနှောက် နှလုံးသား နဲ့ များ ရှင်သန် ရပ်တည် နေ တယ် မ သိ ။	ဒုက္ခ ပင်လယ်ဝေ|||ဘယ်လိုဦးနှောက်	1	1	0	0	0	0	0	0	0	1	0	0
@@ -209,6 +214,8 @@ mya_yekyawthu_6	mya_00ddacad18225126c693206cf275f4a1	မျိုးရိုး
 ```
 
 ### JSON File
+
+JSON ဖိုင် ဥပမာ ကတော့ အောက်ပါအတိုင်းပါ။  
 
 ```json
 [
