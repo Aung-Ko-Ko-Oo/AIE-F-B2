@@ -34,7 +34,7 @@ Examples:
 PS C:\Users\yktnl\Downloads\aat>
 ```
 
-## Initialization
+## Running Method-1: Initialization
 
 ဒီနည်းကတော့ ပထမဆုံး Arloo Annotation Tool ကို run မယ်ဆိုရင် အသုံးပြုလို့ ရပါတယ်။ ကိုယ့်ဆီမှာ configuration file လည်း မပြင်ရသေးဘူး။ Text corpus လည်း မရှိသေးဘူးဆိုတဲ့ အခြေအနေပါ။ အောက်ပါအတိုင်း run လိုက်ရင် example configuration ဖိုင်နဲ့ example text corpus ဖိုင်ကို အော်တိုဆောက်ပေးသွားပါလိမ့်မယ်။  
 
@@ -149,5 +149,43 @@ fields:
     type: binary
     group: "Sub-Task 3: Severity"
 
+```
+
+## sample_texts.txt
+
+Text corpus ရဲ့ format က မြန်မာစာ တစ်ကြောင်းစီကို တစ်လိုင်းစီ ရိုက်ထည့်ထားတဲ့ ပုံစံပါ။ 
+တကယ်လို့ annotation လုပ်မယ့် စာကြောင်းတွေကို အရင်စုပြီး လုပ်မယ်ဆိုရင် အခုလိုမျိုး text ဖိုင်ဆောက်ထားယုံပါပဲ။  
+
+```
+အော် သူ တစ် ယောက် တည်း ဒုက္ခ ပင်လယ်ဝေ နေ တာ နေ မယ် နိုင်ငံရေး က ငါ နဲ့ မ ဆိုင် ဘူး တဲ့ ဘယ်လိုဦးနှောက် နှလုံးသား နဲ့ များ ရှင်သန် ရပ်တည် နေ တယ် မ သိ ။
+သူများ ကို မ ပြင် ခင် ကိုယ့် ဟာ ကို လည်း အရင် ပြင် ကြ ဦး 😞
+မ ခံစား ရ ပါ စေ နဲ့ လည်း ပြော သေး တယ် ကံ တူ အကျိုး ပေး ပါ စေ တဲ့ ဘာ လား ဟ 🥲
+သူ တကယ် ခံစား ရ တာ ပဲ နော်
+မြန်မာ့ ယဉ်ကျေး မှု ဖျက် တဲ့ လူစား တွေ အခြား နည်း နဲ့ ပိုက်ဆံ ရှာ ပါ လား
+မျိုးရိုး မ ကောင်း တာ ပြင် လို့ ကို မ ရ ဘူး
+```
+
+## Running Method-2: Web GUI and Plain Text File
+
+```
+python .\arloo.py web --annotator "YeKyawThu" --input .\sample_texts.txt
+```
+
+## Running Method-3: Web GUI and CSV Corpus
+
+```
+python arloo.py web --annotator "YeKyawThu" --input data.csv --port 8080
+```
+
+## Running Method-4: GUI and Plain Text File
+
+```
+python arloo.py gui --annotator "YeKyawThu" --input sample_texts.txt
+```
+
+## Running Method-5: Web GUI and Add Sentences Interactively
+
+```
+python arloo.py web --annotator "YeKyawThu"
 ```
 
