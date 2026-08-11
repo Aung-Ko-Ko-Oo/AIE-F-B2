@@ -11,24 +11,22 @@ pip install pyyaml
 
 ```
 PS C:\Users\yktnl\Downloads\aat> python .\arloo.py --help
-usage: arloo.py [-h] {web,gui,init} ...
+usage: arloo.py [-h] {web,init} ...
 
 🥔 Arloo Annotation Tool — Lightweight POLAR dataset annotator
 
 positional arguments:
-  {web,gui,init}  Operation mode
-    web           Run web interface (Flask)
-    gui           Run desktop GUI (Tkinter)
-    init          Create sample config and text files
+  {web,init}  Operation mode
+    web       Run web interface (Flask)
+    init      Create sample config and text files
 
 options:
-  -h, --help      show this help message and exit
+  -h, --help  show this help message and exit
 
 Examples:
   python arloo.py init
   python arloo.py web --annotator "kyawkyaw" --input sample_texts.txt
   python arloo.py web --annotator "kyawkyaw" --input data.csv --port 8080
-  python arloo.py gui --annotator "kyawkyaw" --input sample_texts.txt
   python arloo.py web --annotator "kyawkyaw"  # Start empty, add sentences interactively
 
 PS C:\Users\yktnl\Downloads\aat>
@@ -177,13 +175,7 @@ python .\arloo.py web --annotator "YeKyawThu" --input .\sample_texts.txt
 python arloo.py web --annotator "YeKyawThu" --input data.csv --port 8080
 ```
 
-## Running Method-4: GUI and Plain Text File
-
-```
-python arloo.py gui --annotator "YeKyawThu" --input sample_texts.txt
-```
-
-## Running Method-5: Web GUI and Add Sentences Interactively
+## Running Method-4: Web GUI and Add Sentences Interactively
 
 ```
 python arloo.py web --annotator "YeKyawThu"
