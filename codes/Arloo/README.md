@@ -1,5 +1,11 @@
 # 🥔 Arloo Annotation Tool
 
+Polar ဒေတာ annotation လုပ်ဖို့အတွက် Arloo Annotation Tool ပါ။ ပထမပိုင်းမှာ Web UI ရော Python GUI ရော နှစ်မျိုးစလုံး ရဖို့ ရေးခဲ့ပေမဲ့ code လိုင်းအရေအတွက်က တစ်ထောင်ကျော်လာတာမို့ လက်ရှိ ဗားရှင်း 0.9 မှာ Web UI ကိုပဲ support လုပ်ထားပါတယ်။ Lightweight နဲ့ လွယ်လွယ်ကူကူ run လို့ပြီး corpus annotation အလုပ်ကို အမြန်ဆုံး စလုပ်နိုင်ဖို့ ဒီဇိုင်း လုပ်ထားပါတယ်။ Assignment-2 ပရောဂျက် အသေးလေးအတွက်တော့ အဆင်ပြေမယ်လို့ ထင်ပါတယ်။  
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/codes/Arloo/UI-fig/Arloo-Annotation-Tool-UI-Adding-New-Sentence.png" alt="UI of Arloo Annotation Tool" width="800">  
+</p>
+
 ## Library Installation
 
 ```
