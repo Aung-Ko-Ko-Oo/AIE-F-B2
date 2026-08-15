@@ -8,3 +8,4 @@
 6. Class-7, 1 Aug 2026: [Robot Language Acquisition Based on Sequence-to-Sequence Learning](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/robola.pdf)  
 7. Class-8 and 9, 2 Aug 2026, 8 Aug 2026: [essential_linux_commands.pdf](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/essential_linux_commands.pdf)  
 8. Class 10, 9 Aug 2026: [From Fingerspelling to Sign Language Machine Translation](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/sl.pdf)  
+9. Class 11, 15 Aug 2026: [grothendieck.pdf](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/slide/grothendieck.pdf)
