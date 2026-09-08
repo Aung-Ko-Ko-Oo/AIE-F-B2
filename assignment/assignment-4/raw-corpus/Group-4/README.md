@@ -2,7 +2,11 @@
 
 ကျနော်တို့ Group-4 အနေနဲ့ Burmese ASR Mini Project အတွက် လိုအပ်သော Speech Dataset ကို ကိုယ်တိုင်အသံသွင်း၍ စုဆောင်းခဲ့ပါသည်။ 
 
-ပထမဦးဆုံး Recording Process တွင် စုစုပေါင်း လူ 7 ဦး ပါဝင်ခဲ့ပြီး၊ 
+📦 Recording ZIP Download: [Google Drive – Burmese ASR Recordings
+](https://drive.google.com/file/d/1S-BdQPPfQaHjYyRmpiWZNitfY5xi7pRQ/view?usp=sharing
+)
+
+ပထမဦးဆုံး Recording Process တွင် စုစုပေါင်း Speaker 7 ဦး ပါဝင်ခဲ့ပြီး၊ 
 
 ```
 Male : 4 ယောက်
