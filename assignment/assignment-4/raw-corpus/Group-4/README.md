@@ -67,6 +67,19 @@ Testing Set တွင် ပါဝင်သော Speaker များကို 
 
 ---
 
+## Recording Tools
+Recording tool အနေနဲ့ ဆရာ Dr. Ye Kyaw Thu ရဲ့ Speech Training Recorder ကို အသုံးပြုထားပါတယ်။ Tool ရဲ့ အားသာချက်ကတော့ Kaldi နဲ့ ASR model တည်ဆောက်ဖို့ အတွက် လိုအပ်တဲ့ data format တွေကို recording ယူတဲ့အချိန်မှာပါ တစ်ခါတည်း ထုတ်ပေးတာဖြစ်ပါတယ်။ ဒါကြောင့် အချို့ preprocessing step တွေကို ပိုပြီး မြန်မြန်ဆန်ဆန် ပြုလုပ်လာနိုင်ပါတယ်။
+
+More Details: [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool)
+
+---
+
+## References
+
+- https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool
+
+- https://arxiv.org/abs/2506.07149
+
 
 
 
